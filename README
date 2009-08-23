@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2756
+
+This plugin allows you to insert and edit colors using a graphical color selection window. It makes #rrggbb hex color codes; as input it detects both #rrggbb hexcodes and X11 color names.
+
+The script supports three language locales: English, Spanish, Czech.
